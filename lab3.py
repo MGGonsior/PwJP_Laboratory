@@ -2,15 +2,15 @@ import numpy as np
 import json
 import heapq
 
-zadanie = 3
+zadanie = 1
 
 if zadanie == 1:
     print('Zadanie 1')
-    matrix1 =   [[1 ,  1  , 1],
-                [5  ,   6 , 1]]
+    matrix1 =   [[1 ,  1  ],
+                [5  ,   6 ]]
 
-    matrix2 =   [[1 ,  2    ,1 ],
-                [5  ,   6   ,1 ]]
+    matrix2 =   [[1 ,  2    ],
+                [5  ,   6  ]]
 
 
 
